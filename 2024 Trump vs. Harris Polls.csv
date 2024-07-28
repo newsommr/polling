@@ -1,0 +1,36 @@
+POLLSTER,LINK,DATE,SAMPLE,MOE,TRUMP (R),HARRIS (D),SPREAD,"TRUMP AVERAGE 
+(14-day rolling)","HARRIS AVERAGE
+(14-day rolling)","AVERAGE SPREAD
+(14-day rolling)"
+AtlastIntel,https://www.atlasintel.org/poll/usa-national-2024-07-27,2024-07-25,1980 RV,2,50,48,Trump + 2,48.45,45.95,Trump +2.50
+Wall Street Journal,https://www.wsj.com/politics/elections/harris-erases-trumps-lead-wsj-poll-finds-e286144d?mod=hp_lead_pos1,2024-07-25,1000 RV,3.1,49,47,Trump +2,48.45,45.95,Trump +2.50
+Forbes/HarrisX,https://www.realclearpolitics.com/docs/2024/HarrisX_July_26_2024.pdf,2024-07-25,3013 RV,1.8,51,49,Trump +2,48.45,45.95,Trump +2.50
+NY Times/Siena,https://www.nytimes.com/interactive/2024/07/25/us/elections/times-siena-poll-likely-electorate-crosstabs.html,2024-07-24,1142 LV,-,48,47,Trump +1,48.21,45.63,Trump +2.58
+Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_50_harris_43,2024-07-24,1074 LV,3,50,43,Trump +7,48.21,45.63,Trump +2.58
+Morning Consult,https://pro.morningconsult.com/trackers/2024-presidential-election-polling,2024-07-24,11297 RV,1,45,46,Harris +1,48.21,45.63,Trump +2.58
+CNN,https://www.cnn.com/2024/07/24/politics/cnn-poll-kamala-harris-donald-trump/index.html,2024-07-23,1631 RV,3,49,46,Trump +3.0,48.39,46.06,Trump +2.33
+ActiVote,https://www.activote.net/trump-narrowly-ahead-of-harris/,2024-07-23,1000 LV,3.1,51,50,Trump + 1,48.39,46.06,Trump +2.33
+Reuters/Ipsos,https://www.reuters.com/world/us/harris-leads-trump-44-42-us-presidential-race-reutersipsos-poll-finds-2024-07-23/,2024-07-23,1018 RV,3,42,44,Harris +2.0,48.39,46.06,Trump +2.33
+Morning Consult,https://pro.morningconsult.com/analysis/kamala-harris-biden-campaign-polling,2024-07-22,4001 RV,-,47,45,Trump +2.0,48.41,46.06,Trump +2.35
+NPR/PBS/Marist,https://maristpoll.marist.edu/wp-content/uploads/2024/07/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202407222001.pdf,2024-07-22,1117 RV,3.5,46,45,Trump +1.0,48.41,46.06,Trump +2.35
+Yahoo News,https://www.scribd.com/document/752747800/20240722-pol,2024-07-22,1178 RV,-,46,46,Tie,48.41,46.06,Trump +2.35
+Echelon Insights,https://echeloninsights.com/in-the-news/july2024-verified-voter-omnibus-2-2-2-2/,2024-07-21,982 LV,3.8,49,47,Trump + 2,48.87,46,Trump +2.87
+Socal Researech,https://drive.google.com/file/d/1yWjppGZ3zxiJqYmJimDLlscGbRldgM95/view,2024-07-21,800 LV,3.5,51,43,Trump + 8,48.87,46,Trump +2.87
+Quinnipiac,https://poll.qu.edu/poll-release?releaseid=3901,2024-07-21,1257 RV,2.8,49,47,Trump +2.0,48.87,46,Trump +2.87
+Forbes/HarrisX,https://www.harrisx.com/content/hop-july-19-21-2024,2024-07-21,2753 RV,1.9,53,47,Trump +6.0,48.87,46,Trump +2.87
+CBS News,https://www.cbsnews.com/news/trump-poll-biden-national-07-18-2024/,2024-07-18,2247 LV,2.7,51,48,Trump +3.0,48.27,46,Trump +2.27
+Socal Researech,https://drive.google.com/file/d/1yWjppGZ3zxiJqYmJimDLlscGbRldgM95/view,2024-07-17,800 LV,3.5,52,44,Trump + 8,48,45.8,Trump +2.20
+Reuters/Ipsos,https://www.reuters.com/world/us/four-five-americans-fear-country-is-sliding-into-chaos-reutersipsos-poll-finds-2024-07-16/,2024-07-16,992 RV,3.5,44,44,Tie,47.56,46,Trump +1.56
+Morning Consult,https://pro.morningconsult.com/analysis/democratic-voters-remain-divided-over-ditching-biden,2024-07-15,2045 RV,2,46,45,Trump +1.0,47.44,45.78,Trump +1.66
+Forbes/HarrisX,https://www.harrisx.com/content/trump-assassination-attempt-full-results,2024-07-15,1918 RV,2.2,52,48,Trump +4.0,47.44,45.78,Trump +1.66
+SurveyUSA,https://www.surveyusa.com/client/PollReport.aspx?g=5d217599-3223-4ba1-ba09-3464095c0001,2024-07-15,1098 LV,3.3,45,42,Trump +3.0,47.44,45.78,Trump +1.66
+NPR/PBS/Marist,https://maristpoll.marist.edu/wp-content/uploads/2024/07/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202407101544.pdf,2024-07-10,1174 RV,3.3,49,50,Harris +1.0,47.9,45.9,Trump +2.00
+FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2024/07/Fox_July-7-10-2024_National_Topline_July-14-Release.pdf,2024-07-10,1210 RV,3,49,48,Trump +1.0,47.9,45.9,Trump +2.00
+NBC News,https://www.realclearpolitics.com/docs/2024/240240_NBC_July_2024_Poll_7.14_RELEASE_CORRECTED_.pdf,2024-07-09,800 RV,3.5,47,45,Trump +2.0,47.63,45.13,Trump +2.50
+Emerson,https://emersoncollegepolling.com/july-2024-national-poll-trump-46-biden-43/,2024-07-08,1370 RV,2.6,49,43,Trump +6.0,47.83,44.5,Trump +3.33
+ABC News/Wash Post,https://docs.google.com/spreadsheets/d/1oLv3PqktVHZ1bKWZJzGct7ADi9qTqJZWpNALJsD_ZiA/edit?gid=1892265243#gid=1892265243,2024-07-09,2041 RV,2,47,49,Harris +2.0,47.63,45.13,Trump +2.50
+Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2024-07/Reuters%20Ipsos%20Presidential%20Debate%20Topline%2007%2002%202024%20PDF.pdf,2024-07-02,892 RV,3.5,43,42,Trump +1.0,47.6,44.8,Trump +2.80
+Yahoo News,https://www.yahoo.com/news/new-yahoo-newsyougov-poll-60-of-americans-say-biden-is-not-fit-for-another-term-as-president-after-disastrous-debate--yet-2024-contest-with-trump-remains-too-close-to-call-204915250.html,2024-07-01,1171 RV,2.9,47,45,Trump +2.0,48.75,45.5,Trump +3.25
+CNN,https://s3.documentcloud.org/documents/24787646/cnn-poll.pdf,2024-06-30,1045 RV,3.7,47,45,Trump +2.0,49.33,45.67,Trump +3.66
+Data for Progress,https://www.dataforprogress.org/blog/2024/6/29/in-post-debate-poll-voters-think-biden-is-too-old-to-be-president-yet-alternative-candidates-perform-similarly-against-trump,2024-06-28,1011 LV,3,48,45,Trump +3.0,48,45,Trump +3.00
+Forbes/HarrisX,https://www.realclearpolitics.com/docs/2024/668471ab99503bfba4fb9dfc_HarrisX_Post-Debate_Poll_2_(1).pdf,2024-06-30,1500 RV,2.5,53,47,Trump +6.0,49.33,45.67,Trump +3.66

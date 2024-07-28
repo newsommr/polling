@@ -1,0 +1,18 @@
+POLLSTER,LINK,DATE,SAMPLE,MOE,TRUMP (R),HARRIS (D),KENNEDY,SPREAD,"TRUMP AVERAGE 
+(14-day rolling)","HARRIS AVERAGE
+(14-day rolling)","KENNEDY AVERAGE
+(14-day rolling)","AVERAGE SPREAD
+(14-day rolling)"
+AtlastIntel,https://www.atlasintel.org/poll/usa-national-2024-07-27,2024-07-25,1980 RV,2,48,46,5,Trump + 2,44.45,42,5.91,Trump +2.45
+Wall Street Journal,https://www.wsj.com/politics/elections/harris-erases-trumps-lead-wsj-poll-finds-e286144d?mod=hp_lead_pos1,2024-07-25,1000 RV,3.1,44,45,4,Harris +1,44.45,42,5.91,Trump +2.45
+Forbes/HarrisX,https://www.realclearpolitics.com/docs/2024/HarrisX_July_26_2024.pdf,2024-07-25,3013 RV,1.8,44,44,10,Tie,44.45,42,5.91,Trump +2.45
+NY Times/Siena,https://www.nytimes.com/interactive/2024/07/25/us/elections/times-siena-poll-likely-electorate-crosstabs.html,2024-07-24,1142 LV,—,43,44,5,Harris +1,44.13,40.88,5.75,Trump +3.25
+Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/biden_administration/election_2024_trump_50_harris_43,2024-07-24,1074 LV,3,49,42,4,Trump +7,44.13,40.88,5.75,Trump +3.25
+Economist/YouGov,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_U76IOiF.pdf,2024-07-23,1435 RV,3.1,44,41,5,Trump +3,43.5,40.17,6.17,Trump +3.33
+NPR/PBS/Marist,https://maristpoll.marist.edu/wp-content/uploads/2024/07/NPR_PBS-News_Marist-Poll_USA-NOS-and-Tables_202407222001.pdf,2024-07-22,1117 RV,3.5,42,42,7,Tie,43.17,39.67,6.17,Trump +3.50
+Yahoo News,https://www.scribd.com/document/752747800/20240722-pol,2024-07-22,1178 RV,—,43,41,5,Trump +2,43.17,39.67,6.17,Trump +3.50
+Socal Researech,https://drive.google.com/file/d/1yWjppGZ3zxiJqYmJimDLlscGbRldgM95/view,2024-07-21,800 LV,3.5,43,37,9,Trump + 6,43.5,38.75,6.25,Trump +4.75
+Quinnipiac,https://poll.qu.edu/images/polling/us/us07222024_regvoter_upky90.pdf,2024-07-21,1257 RV,2.8,45,41,6,Trump +4,43.5,38.75,6.25,Trump +4.75
+Economist/YouGov,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_sPu9WiO.pdf,2024-07-16,1404 RV,3,44,39,5,Trump +5,43,38.5,5,Trump +4.50
+Economist/YouGov,https://d3nkl3psvxxpe9.cloudfront.net/documents/econTabReport_RptTnGc.pdf,2024-07-09,1443 RV,3.1,42,38,5,Trump +4,42.5,38,10.5,Trump +4.50
+Forbes/HarrisX,https://www.realclearpolitics.com/docs/2024/668471ab99503bfba4fb9dfc_HarrisX_Post-Debate_Poll_2_(1).pdf,2024-06-30,1500 RV,2.5,43,38,16,Trump +5,43,38,16,Trump +5.00
